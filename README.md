@@ -1,2 +1,2 @@
-# Machine-Learning
-机器学习实验课的练习
+# Machine-Learning-KNN
+K近邻的实验练习
